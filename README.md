@@ -1,5 +1,5 @@
 - 👋 Hi, 
-- 🌱 I’m currently learning javascript & Python
+- 🌱 I’m always learning
 
 
 <!---
